@@ -1,8 +1,7 @@
-<img width="960" height="504" alt="kali-linux-setup png" src="https://github.com/user-attachments/assets/9306511b-92ec-482a-a409-0a7e126b5c94" />
-<img width="960" height="504" alt="virtualbox-network-setup png" src="https://github.com/user-attachments/assets/0b12bf4e-1d07-47e4-925b-33c6bdb7fa14" />
-
 # cybersecurity-setup-lab-environment
 I built a virtual cybersecurity lab on Windows 11 using VirtualBox and Kali Linux 2026.2. Kali runs on a private NAT Network with a static IP, so I can safely practice scanning, reconnaissance, and exploitation, and later add vulnerable target machines. The setup includes updates, connectivity checks, clean snapshot, and documented troubleshooting.
+<img width="960" height="504" alt="kali-linux-setup png" src="https://github.com/user-attachments/assets/9306511b-92ec-482a-a409-0a7e126b5c94" />
+<img width="960" height="504" alt="virtualbox-network-setup png" src="https://github.com/user-attachments/assets/0b12bf4e-1d07-47e4-925b-33c6bdb7fa14" />
 
 ---
 
